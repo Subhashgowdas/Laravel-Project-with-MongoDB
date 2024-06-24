@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6678ddd92a7d0c930105f202"
+  },
+  "rollNumber": 1324,
+  "name": "Janson",
+  "branch": "Computer Science",
+  "college": "Birla Institute of Technology and Science"
+},
+{
+  "_id": {
+    "$oid": "6678e18a2a7d0c930105f20c"
+  },
+  "rollNumber": 5228,
+  "name": "Peter",
+  "branch": "Civil Engineer",
+  "college": "Jadavpur University"
+},
+{
+  "_id": {
+    "$oid": "6678e2772a7d0c930105f20e"
+  },
+  "rollNumber": 9463,
+  "name": "jonny",
+  "branch": "Mechanical Engineer",
+  "college": "IIIT Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "6678e3bb2a7d0c930105f210"
+  },
+  "rollNumber": 4563,
+  "name": "joe",
+  "branch": "Information Science Engineer",
+  "college": "Delhi Technological University"
+},
+{
+  "_id": {
+    "$oid": "6678e4e82a7d0c930105f212"
+  },
+  "rollNumber": 3725,
+  "name": "San jummy",
+  "branch": "Electical and Electronic Engineer",
+  "college": "Indian Institute of Science"
+}]

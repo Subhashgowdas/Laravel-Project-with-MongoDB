@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6678df972a7d0c930105f203"
+  },
+  "phoneNumber": "9334259873",
+  "email": "jansonjon12@gmail.com",
+  "ZipCode": 500001,
+  "city": "Hyderabad",
+  "state": "Telangana"
+},
+{
+  "_id": {
+    "$oid": "6678e2232a7d0c930105f20d"
+  },
+  "phoneNumber": "9263987334",
+  "email": "peterbolt34@gmail.com",
+  "ZipCode": 700032,
+  "city": "Kolkata",
+  "state": "West Bengal"
+},
+{
+  "_id": {
+    "$oid": "6678e3022a7d0c930105f20f"
+  },
+  "phoneNumber": "9263987334",
+  "email": "jonny23@gmail.com",
+  "ZipCode": 502284,
+  "city": "hyderabad",
+  "state": "Telangana"
+},
+{
+  "_id": {
+    "$oid": "6678e4132a7d0c930105f211"
+  },
+  "phoneNumber": "9673415639",
+  "email": "joejhon54@gmail.com",
+  "ZipCode": 110042,
+  "city": "Shahbad Daulatpur",
+  "state": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "6678e52e2a7d0c930105f213"
+  },
+  "phoneNumber": "8627711234",
+  "email": "sanjummy34@gmail.com",
+  "ZipCode": 560012,
+  "city": "BANGALORE",
+  "state": "Karnataka"
+}]
